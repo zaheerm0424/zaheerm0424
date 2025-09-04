@@ -6,8 +6,6 @@
 📚 Master's in Computer Science at NEIU (Graduating Dec 2025)  
 🌐 Passionate about **digital transformation, enterprise security, and data-driven innovation**  
 
-💻 **Tech Stack**  
-## 🖥️ Tech Stack
 
 ## 🛠️ Tech Stack
 
