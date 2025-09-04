@@ -2,6 +2,7 @@
 
 🚀 **About Me**  
 🔧 11+ years of experience in **SAP Basis, S/4HANA, Cybersecurity and Cloud**  
+💼 Served as **Module Lead / Subject Matter Expert (SME)** at **Tech Mahindra** and **Birlasoft**, driving SAP operations, cloud migrations, and security initiatives.  
 🔐 Expanding into **Cybersecurity, Cloud Engineering, and AI/ML**  
 📚 Master's in Computer Science at NEIU (Graduating Dec 2025)  
 🌐 Passionate about **digital transformation, enterprise security, and data-driven innovation**  
