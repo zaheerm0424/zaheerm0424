@@ -58,8 +58,9 @@ SAP & Cybersecurity Professional | AI/ML Enthusiast
 ## 📂 Featured Projects  
 
 - [**AngFitNXT**](https://github.com/zaheerm0424/webdev) – Full-stack Angular + Node.js fitness app with API integration and MongoDB.  
-- **Endometriosis ML Project** – Machine learning pipeline for women’s health (Logistic Regression, Streamlit UI, SHAP explainability).  
-- **SAP Security Lab** – Hands-on project implementing SSL/TLS, SSO with Azure AD, and GRC Access Control for secure SAP landscapes.  
+- **Endometriosis ML Project** *(in progress)* – Machine learning pipeline for women’s health (Logistic Regression, Streamlit UI, SHAP explainability).  
+- **SAP Security Lab** *(in progress)* – Hands-on project implementing SSL/TLS, SSO with Azure AD, and GRC Access Control for secure SAP landscapes.  
+
 
 
 🔗 **Connect with Me**  
