@@ -1,4 +1,6 @@
 # 🔥 Zaheeruddin Mohammed
+SAP & Cybersecurity Professional | AI/ML Enthusiast
+
 
 🔧 11+ years of experience in **SAP Basis, S/4HANA, Cybersecurity and Cloud**  
 💼 Served as **Module Lead / Subject Matter Expert (SME)** at **Tech Mahindra** and **Birlasoft**, driving SAP operations, cloud migrations, and security initiatives.  
