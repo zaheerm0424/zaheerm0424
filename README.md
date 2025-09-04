@@ -49,8 +49,18 @@ SAP & Cybersecurity Professional | AI/ML Enthusiast
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
-📊 **GitHub Stats**  
-![Zaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaheerm0424&show_icons=true&theme=tokyonight)  
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaheerm0424&show_icons=true&theme=tokyonight" />
+</p>
+
+## 📂 Featured Projects  
+
+- [**AngFitNXT**](https://github.com/zaheerm0424/webdev) – Full-stack Angular + Node.js fitness app with API integration and MongoDB.  
+- **Endometriosis ML Project** – Machine learning pipeline for women’s health (Logistic Regression, Streamlit UI, SHAP explainability).  
+- **SAP Security Lab** – Hands-on project implementing SSL/TLS, SSO with Azure AD, and GRC Access Control for secure SAP landscapes.  
+
 
 🔗 **Connect with Me**  
 - [LinkedIn](https://www.linkedin.com/in/zaheeruddin-mohammed)  
